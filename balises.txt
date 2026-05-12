@@ -1,0 +1,4 @@
+Liste des balises maritimes du port de Dakar
+Format : Code,Nom,Lattitude,Longitude
+
+DKR-05,Port de Thies,14.8000,-17.1000
